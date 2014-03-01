@@ -19,6 +19,22 @@
         text-align:center;
     }
 /*name in header*/
+/*nav bar*/
+nav {
+    width:500px;
+    height:50px;
+    background-color:#bbbbbb;
+}
+ul li {
+    display:inline-block;
+    margin:12px;
+    padding:5px;
+}
+ul li a {
+    text-decoration:none;
+    color:black;
+}
+/*nav bar*/
 /*picture in middle*/
     .picture{
         margin:5px auto 0 auto;
