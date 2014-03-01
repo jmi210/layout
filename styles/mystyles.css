@@ -1,36 +1,41 @@
 #wrapper {
-    width: 500px;
+    width: 960px;
     margin: 10px auto 10px auto;  
     /* top, right, bottom, left */
     height: 1000px;
-    background:#eeeeee;
+    background-color:#eeeeee;
 }
-
-header {
-    width: 100%;
-    height: 50px;
-    background:#dddddd;
-    text-align: center;
-}
-
-.article-header {
-    background:#ffffff;
-}
-
-nav, aside {
-    background:#dddddd;
-    width:100px;
-    float: left;
-}
-
-article {
-    /*border: 1px solid #000000;*/
-    background: #ffffff;
-    width:300px;
-    float: left;
-}
-
-#page-footer {
-    clear:left;
-    background:#dddddd;
-}
+/* header */
+    .header{
+        width: 100%;
+        height: 50px;
+        background-color:#bbbbbb;
+    }
+/*name in header*/
+    .name{
+        font-family:sans-serif;
+        color:black;
+        font-size:30px;
+        text-align:center;
+    }
+/*name in header*/
+/*picture in middle*/
+    .picture{
+        margin:5px auto 0 auto;
+    }
+/*picture in middle*/
+/*footer*/
+    .footer{
+        width:100%
+        height:50px;
+        background-color:#bbbbbb;
+    }
+/*footer*/
+/*name in footer*/
+    .fname{
+        font-family:sans-serif;
+        color:#black;
+        font-size:30px;
+        text-align:center;
+    }
+/*name in footer*/
