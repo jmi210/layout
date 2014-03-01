@@ -29,12 +29,13 @@
         width:100%
         height:50px;
         background-color:#bbbbbb;
+        text-align:center;
     }
 /*footer*/
 /*name in footer*/
     .fname{
         font-family:sans-serif;
-        color:#black;
+        color:black;
         font-size:30px;
         text-align:center;
     }
