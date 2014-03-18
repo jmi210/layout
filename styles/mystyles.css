@@ -27,8 +27,8 @@ nav {
 }
 ul li {
     display:inline-block;
-    margin:12px;
-    padding:20px;
+    margin:20px;
+    padding:10px;
 }
 ul li a {
     text-decoration:none;
