@@ -27,7 +27,8 @@ nav {
 }
 ul li {
     display:inline-block;
-    margin:12px 35px;
+    margin:12px;
+    padding:0px 15px;
     left: 370px;
 }
 ul li a {
